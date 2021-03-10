@@ -56,7 +56,7 @@
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
             </div>
@@ -110,7 +110,7 @@
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
             </div>
@@ -159,7 +159,7 @@
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
             </div>
@@ -208,7 +208,7 @@
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
           </div>
@@ -247,7 +247,7 @@
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
           </div>

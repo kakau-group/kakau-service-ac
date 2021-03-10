@@ -2,9 +2,17 @@
 include("atas.php");
 ?>
 
-<?php
-include("jumbotron.php");
-?>
+<section class="inner-page">
+      <div class="slider-item py-5" style="background-image: url('assets/img/kakau-laundry-semuajumbotron.png');">
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center text-center">
+            <div class="col-md-7 col-sm-12 element-animate">
+              <h1 class="text-white">Harga</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
  <!-- ======= Pricing Section ======= -->
@@ -65,7 +73,7 @@ include("jumbotron.php");
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
             </div>
@@ -119,7 +127,7 @@ include("jumbotron.php");
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
             </div>
@@ -168,7 +176,7 @@ include("jumbotron.php");
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
             </div>
@@ -217,7 +225,7 @@ include("jumbotron.php");
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
           </div>
@@ -256,7 +264,7 @@ include("jumbotron.php");
                     </tbody>
                   </table>
                     <div>
-                      <a href="#" class="btn-buy">Pesan Sekarang</a>
+                      <a href="boking.php" class="btn-buy">Pesan Sekarang</a>
                     </div>
               </div>
           </div>

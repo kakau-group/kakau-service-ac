@@ -2,23 +2,17 @@
 include("atas.php");
 ?>
     
-<section class="text-center">
-  <div class="top-content">
-    <div class="row no-gutters">
-      <div class="col">
-        <div id="carousel-example" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="assets/img/kakau-laundry-semuajumbotron.png" style="max-height: 900px;" class="d-block w-100" alt="First slide">
-              <div class="carousel-caption">
-                <div class="description wow fadeInUp">
-              </div>
+    <section class="inner-page">
+      <div class="slider-item py-5" style="background-image: url('assets/img/kakau-laundry-semuajumbotron.png');">
+        <div class="container">
+          <div class="row slider-text align-items-center justify-content-center text-center">
+            <div class="col-md-7 col-sm-12 element-animate">
+              <h1 class="text-white">About</h1>
             </div>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
 
 <?php
 include("ab_ringkasan.php");

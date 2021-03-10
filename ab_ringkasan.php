@@ -66,7 +66,7 @@
           <div>
           <br>
           <br>
-            <a href="#" class="btn btn-primary btn-lg">Pesan Sekarang</a>
+            <a href="boking.php" class="btn btn-primary btn-lg">Pesan Sekarang</a>
           </div>
         </div>
       </div><!-- End Featured Services Section -->
