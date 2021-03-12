@@ -31,10 +31,11 @@
               <h3><span>Mengapa </span>harus memilih kami?</h3>
             </div>
               <h5>Apabila Anda membutuhkan instalasi, perbaikan, atau perawatan, Kulmi dapat membantu Anda. Untuk pelayanan service AC yang berkualitas, kami siap membuat ruangan Anda dingin seketika. Masih bingung untuk menentukan? Ini adalah beberapa alasan untuk memilih kami.</h5>
-        <!-- End Contact Section -->
+              </section><!-- End Contact Section -->
 
 
     <!-- ======= Featured Services Section ======= -->
+    <section class="text-center">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
