@@ -2,7 +2,6 @@
 include("atas.php");
 ?>
 
-<section class="inner-page">
       <div class="slider-item py-5" style="background-image: url('assets/img/kakau-laundry-semuajumbotron.png');">
         <div class="container">
           <div class="row slider-text align-items-center justify-content-center text-center">
@@ -12,7 +11,6 @@ include("atas.php");
           </div>
         </div>
       </div>
-    </section>
 
 
  <!-- ======= Pricing Section ======= -->
